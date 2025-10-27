@@ -4,7 +4,7 @@ This is a high-performance, concurrent-safe Node.js API for reserving event tick
 
 The API handles real-time seat reservations with a "first-come, first-served" guarantee, ensuring that seats are never oversold, even under extreme concurrent load.
 
-**GitHub Repository:** `[https://github.com/SahillRazaa/Ticket-Boss](https://github.com/SahillRazaa/Ticket-Boss)`
+**GitHub Repository:** [https://github.com/SahillRazaa/Ticket-Boss](https://github.com/SahillRazaa/Ticket-Boss)
 
 ## Key Features
 
@@ -86,7 +86,7 @@ Cancels an existing reservation, returning its seats to the available pool.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPO_URL]
+    git clone https://github.com/SahillRazaa/Ticket-Boss.git
     cd ticketboss-api
     ```
 2.  **Install dependencies:**
